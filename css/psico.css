@@ -1,0 +1,27 @@
+psico.css
+
+<link rel="stylesheet" type="text/css" href="css/psico.css">
+  
+
+    <link rel="stylesheet" type="text/css" href="seach_3/fonts">
+.menu__link {
+  display: inline-block;
+  padding: 50px;
+  background: #8A003B;
+  text-decoration: none;
+  color: #fff;
+  }
+
+.menu {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.menu__link:hover, .select {
+  background: white;
+  color: #FBA919;
+}
+* {
+  box-sizing: border-box;
+  background: #476;
+  }

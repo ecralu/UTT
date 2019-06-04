@@ -1,0 +1,18 @@
+* {
+  box-sizing: border-box;
+  background: #476;
+}
+.info__txt{
+	font-size: 30px;
+    margin: 5px 0;
+   display: inline-block;
+  color: #fff;
+}
+.info__titulo{
+font-size: 30px;
+    margin: 5px 0;
+   display: inline-block;
+  color: red;	
+   display: table-cell;
+}
+

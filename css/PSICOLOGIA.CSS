@@ -1,0 +1,22 @@
+PSICOLOGIA.CSS
+   <link rel="stylesheet" type="text/css" href="css/PSICOLOGIA.css">
+
+    <link rel="stylesheet" type="text/css" href="/fonts"Arce_Teti_York>
+* {
+  box-sizing: border-box;
+  background: #476;
+}
+.info__txt{
+	font-size: 30px;
+    margin: 5px 0;
+   display: inline-block;
+  color: #fff;
+}
+.info__titulo{
+font-size: 30px;
+    margin: 5px 0;
+   display: inline-block;
+  color: red;	
+   display: table-cell;
+}
+
